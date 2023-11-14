@@ -10,3 +10,4 @@ Third commit
 >>>>>>> feature-branch
 Commit 1 from classmate
 Commit 2 from classmate
+my colleague branch 
