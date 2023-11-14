@@ -8,3 +8,4 @@ first commit
 Second commit
 Third commit
 >>>>>>> feature-branch
+this is the new branch created
