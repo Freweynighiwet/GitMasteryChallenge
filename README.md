@@ -8,3 +8,4 @@ first commit
 Second commit
 Third commit
 >>>>>>> feature-branch
+Commit 1 from classmate
